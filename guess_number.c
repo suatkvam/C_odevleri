@@ -65,25 +65,3 @@ int main(int argc, char const *argv[])
 
     guess(N);
 }
-/*
- // int s1;
-    // scanf("%d",&s1);
-    // if (s1 == result)
-    // {
-    //     printf("ben c dilinin");
-    // }
-    // else
-    // {
-    //     while (true)
-    //     {
-    //         scanf("%d",s1);
-    //         if (s1 == result)
-    //         {
-    //             break;
-    //         }
-            
-    //     }
-    // }
-        
-    // }
-*/
